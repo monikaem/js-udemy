@@ -1,0 +1,9 @@
+div{
+    background-color: red;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+body{
+    height: 10000vh;
+}
