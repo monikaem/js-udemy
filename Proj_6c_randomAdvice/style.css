@@ -1,0 +1,13 @@
+body *{
+    font-size: 25px;
+    text-align: center;
+    font-family: Arial;
+}
+p{
+    padding: 50px;
+}
+button{
+    background-color: lightpink;
+    border: solid 1px hotpink;
+    color: blueviolet;
+}
