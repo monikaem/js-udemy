@@ -1,0 +1,22 @@
+button{
+    display: block;
+    margin: 50px auto 50px;
+    padding: 20px 50px;
+    background-color: aliceblue;
+    border: solid 3px lightpink;
+    color: deeppink;
+    font-family: Arial;
+    font-size: 26px;
+}
+div{
+    padding: 30px;
+    /*background-color: aliceblue;*/
+    width: 60%;
+    margin: 10px auto;
+    /*border: solid 2px lightsteelblue;*/
+    text-align: center;
+    font-family: Arial;
+    color: deeppink;
+    font-size: 26px;
+}
+
