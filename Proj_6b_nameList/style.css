@@ -1,0 +1,9 @@
+input, button{
+    display: inline-flex;
+    font-size: 26px;
+    margin: 0 auto;
+}
+div{
+    font-size: 26px;
+    padding: 20px;
+}
