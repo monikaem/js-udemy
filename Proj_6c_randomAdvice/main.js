@@ -1,5 +1,5 @@
 // losowa rada
-onst addBtn = document.querySelector('.add');
+const addBtn = document.querySelector('.add');
 const resetBtn = document.querySelector('.reset');
 const showAdviceBtn = document.querySelector('.showAdvice');
 const showOptionsBtn = document.querySelector('.showOptions');
