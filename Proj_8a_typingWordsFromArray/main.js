@@ -1,6 +1,6 @@
 const txt = ['Dzień dobry!!!', 'Co za piękny dzień...', 'Uśmiechnij się'];
 
-let activeLetter = -20;
+let activeLetter = -20; // gdy ustawimy ponizej zera to bedziemy musieli poczekac zanim zostana wyswietlone literki
 let activeText = 0;
 
 
