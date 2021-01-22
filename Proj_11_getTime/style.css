@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+.clock {
+    line-height: 100vh;
+    font-size: 50px;
+    text-align: center;
+    font-family: arial;
+
+}
+span {
+    font-weight: bold;
+    font-family: monospace;
+}

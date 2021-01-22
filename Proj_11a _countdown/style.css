@@ -1,0 +1,10 @@
+p {
+    font-family: monospace;
+    font-size: 22px;
+}
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 20vh;
+}
